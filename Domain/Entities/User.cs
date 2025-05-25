@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    internal class Usuario
+    public class User
     {
         [Key]
         public int PKUser { get; set; }
