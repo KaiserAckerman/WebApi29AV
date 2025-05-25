@@ -1,3 +1,8 @@
+using WebAPI29AV.Context;
+using WebAPI29AV.Services.IServices;
+using WebAPI29AV.Services.Services;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,7 +11,12 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
+opciones.UseSqlServer(builder.Configuration.GetConnectionString("ConexionSQL"))
+    );
 
+builder.Services.AddTransient<IUserServices, UserServices>();
+builder.Services.AddTransient<IRolServices, RolServices>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

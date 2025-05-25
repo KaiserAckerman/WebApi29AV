@@ -5,9 +5,10 @@ namespace WebAPI29AV.Context
 {
     public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> opciones) : base(opciones)
         {
         }
+
         public DbSet<User> Users { get; set; }
         public DbSet<Rol> Roles { get; set; }
 
@@ -18,12 +19,12 @@ namespace WebAPI29AV.Context
                 new Rol
                 {
                     PKRol = 1,
-                    Name = "a"
+                    Name = "Alumno"
                 },
                 new Rol
                 {
                     PKRol = 2,
-                    Name = "sa"
+                    Name = "Maestro"
                 });
 
             // Insertar en tabla Usuario
@@ -31,25 +32,25 @@ namespace WebAPI29AV.Context
                 new User
                 {
                     PKUser = 1,
-                    Name = "David",
-                    Username = "davi",
-                    Password = "123",
+                    Name = "Josafat",
+                    Username = "Joss",
+                    Password = "1910",
                     FKRol = 2 // Asegúrate de que esta clave foránea corresponde a un Rol existente
                 },
                 new User
                 {
                     PKUser = 2,
-                    Name = "Jorge",
-                    Username = "joge",
-                    Password = "123",
+                    Name = "Roberto",
+                    Username = "Kaiser",
+                    Password = "1910",
                     FKRol = 1
                 },
                 new User
                 {
                     PKUser = 3,
-                    Name = "Yeriel",
-                    Username = "cupi",
-                    Password = "123",
+                    Name = "Kaiser",
+                    Username = "Ackerman",
+                    Password = "1910",
                     FKRol = 1
                 });
         }
