@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\source\\repos\\webapi29av\\webapi29av\\webapi29av.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\webapi29av.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\source\\repos\\webapi29av\\webapi29av\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\source\\repos\\webapi29av\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\source\\repos\\webapi29av\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\source\\repos\\webapi29av\\domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\source\\repos\\webapi29av\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\source\\repos\\webapi29av\\webapi29av\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebAPI29AV.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\WebAPI29AV\\WebAPI29AV.csproj",
+              "RelativeDocumentMoniker": "WebAPI29AV\\WebAPI29AV.csproj",
+              "ToolTip": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\WebAPI29AV\\WebAPI29AV.csproj",
+              "RelativeToolTip": "WebAPI29AV\\WebAPI29AV.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T04:21:17.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\WebAPI29AV\\Context\\AplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Context\\AplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\WebAPI29AV\\Context\\AplicationDBContext.cs",
+              "RelativeToolTip": "WebAPI29AV\\Context\\AplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:21:17.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T04:21:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:21:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\Domain\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Rol.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\Domain\\Entities\\Rol.cs",
+              "RelativeToolTip": "Domain\\Entities\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:21:14.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:23:36.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\WebAPI29AV\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\source\\repos\\WebAPI29AV\\WebAPI29AV\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPI29AV\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:18:03.808Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

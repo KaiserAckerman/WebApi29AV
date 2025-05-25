@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\webapi29av\\services\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\services\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\webapi29av\\services\\services\\rolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\services\\services\\rolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\webapi29av\\services\\iservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\services\\iservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\webapi29av\\services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\webapi29av\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\webapi29av\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\webapi29av\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\domain\\dto\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\webapi29av\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Services\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Services\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Services\\Services\\UserServices.cs",
+              "RelativeToolTip": "WebAPI29AV\\Services\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:09:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RolServices.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Services\\Services\\RolServices.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Services\\Services\\RolServices.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Services\\Services\\RolServices.cs",
+              "RelativeToolTip": "WebAPI29AV\\Services\\Services\\RolServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:09:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Services\\IServices\\IUserServices.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Services\\IServices\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Services\\IServices\\IUserServices.cs",
+              "RelativeToolTip": "WebAPI29AV\\Services\\IServices\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:08:26.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRolServices.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Services\\IServices\\IRolServices.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Services\\IServices\\IRolServices.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Services\\IServices\\IRolServices.cs",
+              "RelativeToolTip": "WebAPI29AV\\Services\\IServices\\IRolServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:07:04.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPI29AV\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:05:38.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Controllers\\RolController.cs",
+              "RelativeToolTip": "WebAPI29AV\\Controllers\\RolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:05:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:04:55.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Rol.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Entities\\Rol.cs",
+              "RelativeToolTip": "Domain\\Entities\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:03:53.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Entities\\Response.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Response.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Entities\\Response.cs",
+              "RelativeToolTip": "Domain\\Entities\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:02:18.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\DTO\\UserRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\DTO\\UserRequest.cs",
+              "RelativeToolTip": "Domain\\DTO\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:01:22.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Context\\AplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Context\\AplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\WebAPI29AV\\Context\\AplicationDBContext.cs",
+              "RelativeToolTip": "WebAPI29AV\\Context\\AplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:21:17.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T04:21:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\WebApi29AV\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:21:16.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
