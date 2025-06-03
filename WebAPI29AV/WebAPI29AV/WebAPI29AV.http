@@ -1,6 +1,0 @@
-@WebAPI29AV_HostAddress = http://localhost:5108
-
-GET {{WebAPI29AV_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

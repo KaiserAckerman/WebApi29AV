@@ -1,5 +1,6 @@
 ﻿using Domain.DTO;
 using Microsoft.AspNetCore.Mvc;
+using WebAPI29AV.Services;
 using WebAPI29AV.Services.IServices;
 
 namespace WebAPI29AV.Controllers
@@ -88,6 +89,18 @@ namespace WebAPI29AV.Controllers
 
             // Retorna mensaje de éxito con estado 200 OK
             return Ok(new { message = $"Usuario con ID {id} eliminado correctamente." });
+        }
+        // Endpoint para login y generación de token JWT
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginRequest login, [FromServices] JwtService jwtService)
+        {
+            var user = await _userServices.Authenticate(login.Username, login.Password);
+
+            if (user == null)
+                return Unauthorized("Credenciales inválidas");
+
+            var token = jwtService.GenerateToken(user.Username, user.Roles?.Name ?? "SinRol");
+            return Ok(new { token });
         }
     }
 }
