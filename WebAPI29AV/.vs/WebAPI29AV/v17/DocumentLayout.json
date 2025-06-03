@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\services\\services\\rolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\services\\services\\rolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\services\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\services\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\services\\iservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\services\\iservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\domain\\dto\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\domain\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C355656-8814-4DF0-AACD-3BA4D2F8C3D8}|Elementos de la soluci\u00F3n{1C355656-8814-4DF0-AACD-3BA4D2F8C3D8}|C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1C355656-8814-4DF0-AACD-3BA4D2F8C3D8}|Elementos de la soluci\u00F3n{1C355656-8814-4DF0-AACD-3BA4D2F8C3D8}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\webapi29av\\migrations\\20250525081409_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38672B7-66A4-4DA1-98BF-5964AA92C226}|WebAPI29AV\\WebAPI29AV.csproj|solutionrelative:webapi29av\\migrations\\20250525081409_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|c:\\users\\kaiser\\desktop\\github\\webapi29av\\webapi29av\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C3B8C82-509B-4854-9D16-E762FEA8425C}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolServices.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\Services\\RolServices.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Services\\Services\\RolServices.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\Services\\RolServices.cs",
+              "RelativeToolTip": "WebAPI29AV\\Services\\Services\\RolServices.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:09:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPI29AV\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:21:17.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Program.cs",
+              "RelativeToolTip": "WebAPI29AV\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:50:58.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI29AV\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\appsettings.json",
+              "RelativeToolTip": "WebAPI29AV\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T08:08:46.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\IServices\\IUserServices.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Services\\IServices\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\IServices\\IUserServices.cs",
+              "RelativeToolTip": "WebAPI29AV\\Services\\IServices\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:08:26.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Services\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\Services\\UserServices.cs",
+              "RelativeToolTip": "WebAPI29AV\\Services\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:09:53.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Controllers\\RolController.cs",
+              "RelativeToolTip": "WebAPI29AV\\Controllers\\RolController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:05:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPI29AV\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwFoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:05:38.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRolServices.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\IServices\\IRolServices.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Services\\IServices\\IRolServices.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\IServices\\IRolServices.cs",
+              "RelativeToolTip": "WebAPI29AV\\Services\\IServices\\IRolServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:07:04.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\DTO\\UserRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\DTO\\UserRequest.cs",
+              "RelativeToolTip": "Domain\\DTO\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:01:22.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:21:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:04:55.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "Domain\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:29:10.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Services\\JwtService.cs",
+              "RelativeToolTip": "WebAPI29AV\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:22:59.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Rol.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Entities\\Rol.cs",
+              "RelativeToolTip": "Domain\\Entities\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:03:53.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Entities\\Response.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Response.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Entities\\Response.cs",
+              "RelativeToolTip": "Domain\\Entities\\Response.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:02:18.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-02T22:11:34.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250525081409_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Migrations\\20250525081409_FirstMigration.cs",
+              "RelativeDocumentMoniker": "WebAPI29AV\\Migrations\\20250525081409_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\WebAPI29AV\\Migrations\\20250525081409_FirstMigration.cs",
+              "RelativeToolTip": "WebAPI29AV\\Migrations\\20250525081409_FirstMigration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:14:09.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Kaiser\\Desktop\\GitHub\\WebApi29AV\\WebApi29AV\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T04:21:16.777Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

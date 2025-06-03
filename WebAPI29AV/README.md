@@ -1,0 +1,3 @@
+## Cuando finalmente compila sin errores...
+
+![compila](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)
